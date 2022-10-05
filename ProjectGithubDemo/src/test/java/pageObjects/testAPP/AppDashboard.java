@@ -39,5 +39,4 @@ public class AppDashboard {
     public void tapPhotoDemo() {
         Utilities.WaitAndClick(driver, photoDemo);
     }
-//to be delete.
 }
