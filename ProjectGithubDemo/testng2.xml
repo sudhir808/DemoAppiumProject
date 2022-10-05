@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="test.FIN_tax_otherSingapore" />
+			<class name="test.FIN_tax_SingAndotherSingapore" />
+			<class name="test.FIN" />
+			<class name="test.FIN_tax_TIN_SingAndotherSing" />
+
+			<class name="test.Testing" />
+
+			<class name="test.NRIC" />
+			<class name="test.NRIC_tax_TIN_SingAndotherSing" />
+			<class name="test.NRIC_tax_otherSingapore" />
+			<class name="test.NRIC_tax_SingAndotherSingapore" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

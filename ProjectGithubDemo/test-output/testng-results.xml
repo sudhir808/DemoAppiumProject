@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-29T17:18:00 IST" name="Suite" finished-at="2022-08-29T17:43:51 IST" duration-ms="1550396">
+    <groups>
+    </groups>
+    <test started-at="2022-08-29T17:18:00 IST" name="Test" finished-at="2022-08-29T17:43:51 IST" duration-ms="1550396">
+      <class name="test.FIN_tax_TIN_SingAndotherSing">
+        <test-method signature="FINtaxSingAndOtherWithTIN()[pri:0, instance:test.FIN_tax_TIN_SingAndotherSing@3ebff828]" started-at="2022-08-29T17:18:00 IST" name="FINtaxSingAndOtherWithTIN" finished-at="2022-08-29T17:43:44 IST" duration-ms="1543934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FINtaxSingAndOtherWithTIN -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:test.FIN_tax_TIN_SingAndotherSing@3ebff828]" started-at="2022-08-29T17:43:44 IST" name="closeApp" finished-at="2022-08-29T17:43:51 IST" duration-ms="6431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- test.FIN_tax_TIN_SingAndotherSing -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
